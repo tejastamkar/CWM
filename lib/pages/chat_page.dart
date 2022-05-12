@@ -17,7 +17,7 @@ class _ChatPageState extends State<ChatPage> {
   }
 
   Widget getBody() {
-    var size = MediaQuery.of(context).size;
+    // var size = MediaQuery.of(context).size;
     return ListView(
       children: [
         Padding(
